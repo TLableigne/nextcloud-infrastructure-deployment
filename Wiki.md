@@ -1339,6 +1339,18 @@ This plugin customizes the appearance of the login screen with a background imag
 <br>
 <!--QUESTION 78-->
 
+**Configure Wallhaven**
+
+Just follow the exemple at this point it's pretty obvious
+
+![77](img/116.webp)
+
+
+<br>
+
+<br>
+<!--QUESTION 78-->
+
 **Verify that the Splash plugin is working correctly on the login screen**
 <br>
 
@@ -1350,7 +1362,7 @@ If the background has changed or a custom welcome screen is shown, the plugin is
 
 <br>
 
-![78](img/71.png)
+![78](img/115.webp)
 
 <br>
 
