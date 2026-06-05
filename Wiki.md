@@ -28,6 +28,7 @@ Table of contents
       - [FormVox](#formvox)
       - [Additional Plugins](#additional-plugins)
     - [Installing and Configurating clients](#installing-and-configurating-clients)
+    - [Portfolio](#portfolio)
 
 <br>
 <br>
@@ -1758,3 +1759,5 @@ And on alice, what do we see? An apparition
 
 Thanks you for reading this awesome and pretty unique tutorial, hopefully you were able to reach until the end 🎉
 
+### Portfolio
+As part of this SAÉ S2.03 course at the University of Bordeaux, we designed and deployed a virtualized network infrastructure as a team, using the NEmu environment. We permanently configured static IP addressing and LAN routing on Debian machines representing a corporate network. Using the apt and snap package managers, we installed a distributed architecture with a Nextcloud storage server and an OnlyOffice publishing service. We secured the entire platform by enabling HTTPS via TLS certificates, a strict password policy, user quotas, and TOTP two-factor authentication. Finally, we validated the overall operation through the synchronization of thick clients and produced rigorous technical documentation in the form of a GitLab Wiki written entirely in English.
